@@ -1,8 +1,10 @@
 # PostCSS Polygon Shapes
 
-[PostCSS] plugin to generate shapes using `polygon()`.
-
+[PostCSS] plugin to generate shapes using `polygon()`. <br/> Ported from [css-doodle].
+<br />
+<br />
 [PostCSS]: https://github.com/postcss/postcss
+[css-doodle]: https://yuanchuan.github.io/css-doodle/
 
 <img src="shapes.png" width=650 />
 
