@@ -3,8 +3,6 @@
 [PostCSS] plugin to generate shapes using `polygon()`. <br/> Ported from [css-doodle].
 <br />
 <br />
-[PostCSS]: https://github.com/postcss/postcss
-[css-doodle]: https://yuanchuan.github.io/css-doodle/
 
 <img src="shapes.png" width=650 />
 
@@ -43,3 +41,6 @@ postcss([
 ```
 
 See [PostCSS] docs for examples for your environment.
+
+[PostCSS]: https://github.com/postcss/postcss
+[css-doodle]: https://yuanchuan.github.io/css-doodle/
