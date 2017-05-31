@@ -4,7 +4,7 @@
 <br />
 <br />
 
-<img src="shapes.png" width=650 />
+![shapes screenshot](shapes.png)
 
 ```css
 .foo {
